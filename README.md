@@ -33,3 +33,26 @@
 ## ALU
 ![Screenshot 2023-08-23 114051](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/946cc38d-886c-4a9c-8d9a-1b61eb1c19e9)
 
+## Bit
+![Screenshot 2023-09-19 134223](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/adf7fa68-5754-4c41-8b46-269b4715bda8)
+
+## Register
+![Screenshot 2023-09-19 135014](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/636fae31-00f1-4d8b-b6c2-033c138aa9f2)
+
+## Ram8
+![Screenshot 2023-09-20 101727](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/fbd3b453-1de4-4fa8-b844-715de281e998)
+
+## Ram64
+![Screenshot 2023-09-20 102929](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/e053d10f-d131-403e-aa38-fd929e8b5374)
+
+## Ram512
+![Screenshot 2023-09-20 103745](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/ec75022c-ab8c-494c-9d20-88f5213afbe4)
+
+## Ram4K
+![Screenshot 2023-09-20 104129](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/e0dd10a6-4d15-478e-8533-a64dbee531d8)
+
+## Ram16K
+![Screenshot 2023-09-20 104705](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/56148b5b-224f-4ad2-93b6-a57f02698d3a)
+
+## PC
+![Screenshot 2023-09-20 113034](https://github.com/Kavin0M/nand2tetris-Part1/assets/64976162/ec2e094c-92b8-476b-9288-19a72145f159)
